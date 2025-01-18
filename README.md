@@ -1,7 +1,3 @@
-# Operational-analytics
-Job Data Analysis: Focusing on content review metrics 
-User Engagement Analysis: Examining user behavior and growth
-
 -- Create the database
 CREATE DATABASE operational_analytics;
 
